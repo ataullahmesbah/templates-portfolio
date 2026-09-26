@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 620" width="1060" height="620">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#06b6d4" stop-opacity="0.45"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <linearGradient id="m" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  </defs>
+  <rect width="1060" height="620" fill="#15171a"/>
+  <rect width="1060" height="620" fill="url(#glow)"/>
+  <circle cx="530" cy="310" r="250" fill="none" stroke="#06b6d4" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="530" cy="310" r="290" fill="none" stroke="#06b6d4" stroke-opacity="0.08" stroke-width="2"/>
+  
+    <path d="M470 120 L530 250 L590 120 L640 120 L560 280 L500 280 L420 120 Z" fill="url(#m)" opacity="0.55"/>
+    <circle cx="530" cy="330" r="115" fill="url(#m)"/>
+    <circle cx="530" cy="330" r="88" fill="none" stroke="#fff" stroke-opacity="0.6" stroke-width="6"/>
+    <path d="M530 272 L547 307 L585 312 L557 338 L564 376 L530 358 L496 376 L503 338 L475 312 L513 307 Z" fill="#fff" opacity="0.92"/>
+  <text x="530" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="10" fill="#ffffff" opacity="0.85">BEST UI</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#212428"/>
+  <circle cx="1000" cy="120" r="260" fill="#ff014f" opacity="0.25"/>
+  <text x="90" y="300" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff">Adrian Vale</text>
+  <text x="90" y="380" font-family="Arial, sans-serif" font-size="36" fill="#c4cfde">Creative Designer &amp; Digital Maker</text>
+</svg>
